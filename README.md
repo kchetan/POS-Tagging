@@ -1,5 +1,6 @@
 Module Name: POS Tagging using _________
-Name:k.chetan (201201124) & hemanth kancharla (201225002)
+
+Name:k.chetan & hemanth kancharla
 
 
 1- Requirements:
@@ -11,42 +12,78 @@ Name:k.chetan (201201124) & hemanth kancharla (201225002)
 2- Directory Structure:
 -----------------------
 201201124_201225002/
-|-- code
-|   |-- bin
-|   |   |-- compile.sh
-|   |   |-- HindiWMrun.sh
-|   |   |-- HindiWOMrun.sh
-|   |   |-- installib.sh
-|   |   |-- KannadaWMrun.sh
-|   |   |-- KannadaWOMrun.sh
-|   |   |-- TeluguWMrun.sh
-|   |   `-- TeluguWOMrun.sh
-|   |-- lib
-|   `-- src
-|       |-- hindi_morphed.out
-|       |-- hindi_multiple.fst
-|       |-- hindi.out
-|       |-- hindi_pos_wx.txt
-|       |-- hindi_test_wx.txt
-|       |-- ladakA-paradigm.lex
-|       |-- ladakI-paradigm.lex
-|       |-- postag_hindi_morph.py
-|       |-- postag_hindi.py
-|       |-- postag_telugu_morph.py
-|       |-- postag_telugu.py
-|       |-- TagSet.txt
-|       |-- telugu_morphed.out
-|       |-- telugu_multiple.fst
-|       |-- telugu.out
-|       |-- telugu_pos_wx.txt
-|       `-- telugu_test_wx.txt
-|-- README.txt
-|-- Report
-|   `-- 201201124_201225002.pdf
-`-- Results
-    |-- hindi.out
-    |-- kannada.out
-    `-- telugu.out
+	|-- code
+
+	|   |-- bin
+
+	|   |   |-- compile.sh
+
+	|   |   |-- HindiWMrun.sh
+
+	|   |   |-- HindiWOMrun.sh
+
+	|   |   |-- installib.sh
+
+	|   |   |-- KannadaWMrun.sh
+
+	|   |   |-- KannadaWOMrun.sh
+
+	|   |   |-- TeluguWMrun.sh
+
+	|   |   -- TeluguWOMrun.sh
+
+	|   |-- lib
+
+	|   -- src
+
+	|       |-- hindi_morphed.out
+
+	|       |-- hindi_multiple.fst
+
+	|       |-- hindi.out
+
+	|       |-- hindi_pos_wx.txt
+
+	|       |-- hindi_test_wx.txt
+
+	|       |-- ladakA-paradigm.lex
+
+	|       |-- ladakI-paradigm.lex
+
+	|       |-- postag_hindi_morph.py
+
+	|       |-- postag_hindi.py
+
+	|       |-- postag_telugu_morph.py
+
+	|       |-- postag_telugu.py
+
+	|       |-- TagSet.txt
+
+	|       |-- telugu_morphed.out
+
+	|       |-- telugu_multiple.fst
+
+	|       |-- telugu.out
+
+	|       |-- telugu_pos_wx.txt
+
+	|       -- telugu_test_wx.txt
+
+	|-- README.txt
+
+	|-- Report
+
+	|   -- 201201124_201225002.pdf
+
+	-- Results
+
+   	 |-- hindi.out
+    
+   	 |-- kannada.out
+    
+    	 -- telugu.out
+    
 
 6 directories, 7 files                
                       
