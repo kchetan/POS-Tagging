@@ -1,4 +1,4 @@
-Module Name: POS Tagging using _________
+Module Name: POS Tagging using Viterbi Algorithm
 
 Name:k.chetan & hemanth kancharla
 
