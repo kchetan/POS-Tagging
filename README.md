@@ -11,7 +11,6 @@ Name:k.chetan & hemanth kancharla
 
 2- Directory Structure:
 -----------------------
-201201124_201225002/
 	|-- code
 
 	|   |-- bin
